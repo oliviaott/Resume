@@ -37,25 +37,25 @@ Graduated June 2017. GPA 4.2; Academic Honor Roll
 ### **Experience**
 **Java** (2017-2018)
 Completed two semesters of Java which included:
--Building variety of projects
--Collaborating with peers to create the most efficient program
--Learn groundwork of Java language with plenty of knowledge to build on
+- Building variety of projects
+- Collaborating with peers to create the most efficient program
+- Learn groundwork of Java language with plenty of knowledge to build on
 
 **Computer Architecture and Assembly Language** (2018)
--Learning how to build a 16-bit computer
--Gained deeper understanding of a computer’s hardware 
+- Learning how to build a 16-bit computer
+- Gained deeper understanding of a computer’s hardware 
 
 **Data Structures and Algorithms** (2019-present)
--Will know which data structure to utilize and why it is the most efficient to accomplish a given
+- Will know which data structure to utilize and why it is the most efficient to accomplish a given
 problem
 
 ### **Extracurricular**
 **Computer Science Club** (2017-present)
--Participate in weekly discussions and activities involving computer science such as
+- Participate in weekly discussions and activities involving computer science such as
 programming, robotics and learning about opportunities in the field 
 
 **ASB** (2010-17)
--Held leadership positions throughout middle and high school to help engage student body
+- Held leadership positions throughout middle and high school to help engage student body
 in school activities and leadership 
 
 
