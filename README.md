@@ -24,25 +24,14 @@ Completed two semesters of Java which included:
 - Gained deeper understanding of a computer’s hardware 
 
 **Data Structures and Algorithms** (2019-present)
-- Will know which data structure to utilize and why it is the most efficient to accomplish a given
-problem
+- Will know which data structure to utilize and why it is the most efficient to accomplish a 
+given problem
 
 ### **Extracurricular**
 **Computer Science Club** (2017-present)
-- Participate in weekly discussions and activities involving computer science such as
-programming, robotics and learning about opportunities in the field 
+- Participate in weekly discussions and activities involving programming and learning about 
+opportunities in the field 
 
 **ASB** (2010-17)
 - Held leadership positions throughout middle and high school to help engage student body
 in school activities and leadership 
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/oliviaott/Resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
