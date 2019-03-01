@@ -24,8 +24,8 @@ Completed two semesters of Java which included:
 - Gained deeper understanding of a computer’s hardware 
 
 **Data Structures and Algorithms** (2019-present)
-- Will know which data structure to utilize and why it is the most efficient to accomplish a 
-given problem
+- Implementing data structures and learning why the utilized data structure
+is the most efficient to accomplish a given problem
 
 ### **Extracurricular**
 **Computer Science Club** (2017-present)
