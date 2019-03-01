@@ -1,9 +1,3 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/oliviaott/Resume/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -29,18 +23,18 @@ Syntax highlighted code block
 # Olivia Ott
 ## GitHub: oliviaott | Email: oliviadott84@gmail.com 
 
-### Objective
+### **Objective**
 To advance in computer science skills by building connections with peers, attending events related
 to computer science and excelling in and out of the classroom. 
 
-### Education
+### **Education**
 **MiraCosta College**, Oceanside, CA
 Currently enrolled. GPA 3.83 
 
 **Carlsbad High School**, Carlsbad, CA
 Graduated June 2017. GPA 4.2; Academic Honor Roll 
 
-### Experience
+### **Experience**
 **Java** (2017-2018)
 Completed two semesters of Java which included:
 -Building variety of projects
@@ -55,7 +49,7 @@ Completed two semesters of Java which included:
 -Will know which data structure to utilize and why it is the most efficient to accomplish a given
 problem
 
-### Extracurricular
+### **Extracurricular**
 **Computer Science Club** (2017-present)
 -Participate in weekly discussions and activities involving computer science such as
 programming, robotics and learning about opportunities in the field 
