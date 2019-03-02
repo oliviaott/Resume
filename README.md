@@ -28,8 +28,8 @@ Completed two semesters of Java which included:
 is the most efficient to accomplish a given problem
 
 ### **Awards**
-- California State Seal of Biliteracy(2017)
-- Miracosta College President's List(2017-2018)
+- California State Seal of Biliteracy (2017)
+- Miracosta College President's List (2017-2018)
 
 ### **Extracurricular**
 **Computer Science Club** (2017-present)
