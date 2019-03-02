@@ -2,8 +2,8 @@
 ## GitHub: oliviaott | Email: oliviadott84@gmail.com 
 
 ### **Objective**
-To advance in computer science skills by building connections with peers, attending events related
-to computer science and excelling in and out of the classroom. 
+To innovate and continuously learn new technology through collaboration and pushing the boundries 
+of development.
 
 ### **Education**
 **MiraCosta College**, Oceanside, CA
