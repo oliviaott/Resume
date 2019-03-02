@@ -7,10 +7,10 @@ of development.
 
 ### **Education**
 **MiraCosta College**, Oceanside, CA
-Currently enrolled. GPA 3.83 
+Currently enrolled. President's List
 
 **Carlsbad High School**, Carlsbad, CA
-Graduated June 2017. GPA 4.2; Academic Honor Roll 
+Graduated June 2017. Academic Honor Roll 
 
 ### **Experience**
 **Java** (2017-2018)
@@ -27,6 +27,10 @@ Completed two semesters of Java which included:
 - Implementing data structures and learning why the utilized data structure
 is the most efficient to accomplish a given problem
 
+### **Awards**
+- California State Seal of Biliteracy(2017)
+- Miracosta College President's List(2017-2018)
+
 ### **Extracurricular**
 **Computer Science Club** (2017-present)
 - Participate in weekly discussions and activities involving programming and learning about 
@@ -35,3 +39,6 @@ opportunities in the field
 **ASB** (2010-17)
 - Held leadership positions throughout middle and high school to help engage student body
 in school activities and leadership 
+
+**North Coast Calvary Church** (2014-2016)
+- Coached 150 children aged 5-9 each summer in culinary skills and leadership 
